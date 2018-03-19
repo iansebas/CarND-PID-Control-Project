@@ -13,9 +13,9 @@ public:
   /*
   * Coefficients
   */ 
-  double Kp;
-  double Ki;
-  double Kd;
+  double _Kp;
+  double _Ki;
+  double _Kd;
 
   /*
   * Constructor
